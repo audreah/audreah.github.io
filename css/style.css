@@ -1637,26 +1637,20 @@ img {
 }
 
 #plant-1 {
-    left: 170px;
+    left: 210px;
     top: 65%
-    left: 180px;
-    top: 39%
 }
 
 #plant-2 {
-    left: 360px;
+    left: 432px;
     top: 65%
 }
 
 #plant-3 {
-    left: 540px;
+    left: 703px;
     top: 52%
 }
 
-#plant-4 {
-    left: 720px;
-    top: 52%
-}
 
 #plants-container {
     position: absolute;
@@ -1705,20 +1699,17 @@ img {
 }
 
 #plant-ribbon-1 {
-    left: 180px
+    left: 222px
 }
 
 #plant-ribbon-2 {
-    left: 350px
+    left: 432px
 }
 
 #plant-ribbon-3 {
-    left: 520px
+    left: 675px
 }
 
-#plant-ribbon-4 {
-    left: 735px
-}
 
 .plant-ribbon-left {
     position: relative;
